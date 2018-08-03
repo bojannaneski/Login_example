@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login_demo</string>
+    <string name="enter_your_e_mail">Enter your mail</string>
+    <string name="enter_mail">enter mail</string>
+    <string name="enter_your_password">enter you password</string>
+    <string name="enter_password">enter password</string>
+    <string name="profile_activity">Profile activity</string>
+    <string name="already_registered">Already registered?</string>
+</resources>
